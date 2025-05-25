@@ -9,4 +9,9 @@
 ![Screenshot 2025-05-24 224647](https://github.com/user-attachments/assets/4d1f2cf7-4160-4957-ad59-a31d82983c8b)
 
 ## This app was made with the the guidance of IBM Engineers who acted as stakeholders in this project 
+# Tech Stack which includes
+### React
+### Apollo
+### GraphQL
+### MySQL
 # Link to website - https://positivityjar.netlify.app/dashboard
