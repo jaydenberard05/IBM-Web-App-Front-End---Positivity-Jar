@@ -1,0 +1,25 @@
+
+.form.popup {
+    position: absolute;
+    top: calc((100% - 550px) / 2);
+    left: calc(((100% - 400px) / 2) - 125px);
+    width: 400px;
+    height: 350px;
+    display: none;
+    z-index: 2;
+    background-color: white;
+}
+
+.form.popup.visible {
+    display: inline;
+}
+
+.visibility {
+    margin-top: 35px;
+}
+.button.submit {
+    top: 0px;
+    height: 50px !important;
+    margin-top: 25px;
+    border-radius: 5px;
+}

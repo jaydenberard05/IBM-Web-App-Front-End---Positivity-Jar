@@ -1,0 +1,15 @@
+[
+   {
+    "id": 0,
+    "name": "admin",
+    "username": "admin123",
+    "phonenumber": "123-456-7890",
+    "email": "admin123@gmail.com",
+    "password": "JJSHdj123",
+    "facebook": "https://facebook/example", 
+    "twitter": "https://x.com/example",
+    "instagram": "https://instagram/example",
+    "tiktok":  "https://tiktok.com/example",
+    "tumblr": "https://tumblr.com/example"
+    } 
+]

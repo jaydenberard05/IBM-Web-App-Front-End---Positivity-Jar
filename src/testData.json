@@ -1,0 +1,21 @@
+[
+    {
+        "id": 0,
+        "title": "Test 1",
+        "entries": "The family and I went out to dinner."
+    },
+    
+    {
+        "id": 1,
+        "title": "Test 2",
+        "entries": "The family and I went to DisneyLand"
+
+    },
+    
+    {
+        "id": 2,
+        "title": "Test 3",
+        "entries": "I went to the beach."
+
+    }
+]

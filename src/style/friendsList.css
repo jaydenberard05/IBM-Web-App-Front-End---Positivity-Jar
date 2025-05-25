@@ -1,0 +1,39 @@
+@import "./style.css";
+
+.heading {
+    width: 100%;
+    height: 75px;
+}
+
+.content {
+    position: relative;
+    width: calc(100% - 200px);
+    align-items: flex-start !important;
+}
+.content-header.flex.row {
+    height: 75px;
+}
+.friends-lists {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    justify-content: flex-start !important;
+    z-index: 0;
+}
+
+.sub-header {
+    color: #144cdb;
+}
+/*
+.content li:nth-child(odd) {
+    background-color: lightgrey;
+}*/
+.content ul, .content li {
+    width: calc(100% - 20px);
+    margin: 0;
+    padding: 0;
+}
+
+.content li, .sub-header {
+    padding: 0 10px;
+}

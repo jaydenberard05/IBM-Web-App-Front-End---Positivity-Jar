@@ -1,0 +1,33 @@
+{
+    "jars": 
+        [
+            {
+                
+                    "id": 0,
+                    "title": "Vacations",
+                    "entries": [
+                        {
+                            "message": "The family and I went camping.",
+                            "user": "Bob"
+                        },
+                        {
+                            "message": "I went to the beach.",
+                            "user": "Sam"
+                        }
+                    ]
+                
+            },
+            {
+                
+                    "id": 1,
+                    "title": "Activities",
+                    "entries": [
+                        {
+                            
+                        }
+                    ]
+                
+            } 
+        ]
+    
+}

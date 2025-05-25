@@ -1,0 +1,56 @@
+.text-field-wrapper {
+    position: relative;
+    width: 100%;
+    height: 50px;
+}
+.text-field-label {
+    position: relative;
+    top: 25px;
+    left: 25px;
+    width: fit-content;
+    padding: 0 10px;
+    background-color: white;
+    z-index: 1;
+}
+.text-input {
+    width: calc(100% - 10px);
+    height: 20px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    z-index: 0;
+    border: 1px solid black;
+    outline: none;
+}
+.text-input:focus {
+    border: 1px solid #144cdb;
+}
+.text-input:focus ~ .text-field-wrapper {
+    color: rgb(156, 1, 255) !important;
+}
+
+.page.flex.col {
+    justify-content: center;
+    align-items: center;
+}
+.title.centered {
+    text-align: center;
+}
+.form {
+    width: 350px;
+    height: 300px;
+    padding: 25px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 20px lightgrey;
+}
+.form.create-account {
+    height: 475px;
+}
+.form .button {
+    top: 50px;
+    width: 100% !important;
+}
+.sign-in-button {
+    top: 50px;
+    width: 100% !important;
+}

@@ -1,0 +1,22 @@
+.content {
+    position: relative;
+    left: 50px;
+    width: calc(100% - 275px) !important;
+}
+.content .flex.row {
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.data {
+    color: grey;
+}
+.content .flex.row.toggle-button-wrapper {
+    width: 100px !important;
+}
+.rounded.button {
+    width: 150px !important;
+}
+.flex.row.buttons {
+    justify-content: flex-start;
+}

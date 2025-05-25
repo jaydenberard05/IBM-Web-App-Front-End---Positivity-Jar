@@ -1,0 +1,25 @@
+
+.content {
+    flex-flow: row;
+    flex-wrap: wrap !important;
+    justify-content: space-around !important;
+}
+.dashboard-button {
+    width: 450px;
+    height: 325px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid lightgrey;
+}
+.dashboard-button:hover {
+    cursor: pointer;
+    border: 1px solid #3362d7;
+}
+
+.dashboard-icon-landscape {
+    width: 125px;
+}
+.dashboard-icon-portrait {
+    height: 50px;
+}

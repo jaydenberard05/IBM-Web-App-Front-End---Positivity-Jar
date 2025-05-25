@@ -1,0 +1,11 @@
+.content {
+    justify-content: flex-start;
+}
+.jar-list {
+    width: 200px !important;
+    padding: 0 15px;
+}
+
+.jar-view {
+    width: calc(100% - 200px);
+}
